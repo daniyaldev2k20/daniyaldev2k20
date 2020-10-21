@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://www.linkedin.com/in/daniyal-talat-b0a7761b6/
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I dropped out of Hogwarts
--->
+
