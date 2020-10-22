@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Social Media Backend Chat API features, freeCodeCamp Node.js Microservices projects 
+- 🔭 I’m currently working on ... freeCodeCamp Node.js Microservices projects, Microsoft Frontend Bootcamp 
 - 🌱 I’m currently learning ... Node.js, JavaScript, NestJS, TypeScript, MongoDB, RESTful APIs development, Clean and Scalable Architecture
 - 👯 I’m looking to collaborate on ... Node.Js projects
 - 🤔 I’m looking for help with ... Microservices
