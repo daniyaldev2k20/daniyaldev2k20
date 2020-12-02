@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... freeCodeCamp Node.js Microservices projects, Microsoft Frontend Bootcamp 
-- 🌱 I’m currently learning ... Node.js, JavaScript, NestJS, TypeScript, MongoDB, RESTful APIs development, Clean and Scalable Architecture
+- 🔭 I’m currently working on ... RESTful APIs for Web Scraping in fastify
+- 🌱 I’m currently learning ... Node.js, React.js, MongoDB, RESTful APIs development, Clean and Scalable Architecture, Front-end Development
 - 👯 I’m looking to collaborate on ... Node.Js projects
 - 🤔 I’m looking for help with ... Microservices
 - 💬 Ask me about ... Anything
