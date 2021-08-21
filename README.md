@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Array of side-projects 
-- 🌱 I’m currently learning ... Node.js, React.js, MongoDB, Clean and Scalable Architecture, GraphQL, Fast, secure and performant APIs
+- 🌱 I’m currently learning ... Node.js, React.js, MongoDB, Clean and Scalable Architecture, GraphQL, fastify, secure and performant APIs
 - 👯 I’m looking to collaborate on ... Node.Js projects
 - 🤔 I’m looking for help with ... Microservices
 - 💬 Ask me about ... Anything 
